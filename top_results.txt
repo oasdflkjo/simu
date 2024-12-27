@@ -1,0 +1,71 @@
+Top 10 PID combinations:
+
+1. Score: 4.222
+P: 0.412500
+I: 0.000811
+D: 0.225000
+Settling time: 2.22s
+Overshoot: 200.0
+
+2. Score: 4.222
+P: 0.412500
+I: 0.000763
+D: 0.225000
+Settling time: 2.22s
+Overshoot: 200.0
+
+3. Score: 4.223
+P: 0.412500
+I: 0.000858
+D: 0.225000
+Settling time: 2.22s
+Overshoot: 200.0
+
+4. Score: 4.223
+P: 0.412500
+I: 0.000716
+D: 0.225000
+Settling time: 2.22s
+Overshoot: 200.0
+
+5. Score: 4.224
+P: 0.412500
+I: 0.000905
+D: 0.225000
+Settling time: 2.22s
+Overshoot: 200.0
+
+6. Score: 4.224
+P: 0.412500
+I: 0.000668
+D: 0.225000
+Settling time: 2.22s
+Overshoot: 200.0
+
+7. Score: 4.226
+P: 0.412500
+I: 0.000953
+D: 0.225000
+Settling time: 2.22s
+Overshoot: 200.0
+
+8. Score: 4.226
+P: 0.412500
+I: 0.000621
+D: 0.225000
+Settling time: 2.22s
+Overshoot: 200.0
+
+9. Score: 4.227
+P: 0.412500
+I: 0.001000
+D: 0.225000
+Settling time: 2.22s
+Overshoot: 200.0
+
+10. Score: 4.227
+P: 0.412500
+I: 0.000574
+D: 0.225000
+Settling time: 2.22s
+Overshoot: 200.0
